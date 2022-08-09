@@ -13,7 +13,7 @@ As a tech talent incubator, we realized there are thousands of Latin American wo
 ### **kommitters** is sponsored by [**kommit**][kommit.co]<br> <sub>A tech talent incubator with more than a decade of experience.</sub>
 <br>
 
-[Contributions][contributions] • [OSS Governance][governance] • [Roadmap][roadmap]
+[Contributions][contributions] • [OSS Governance][oss-governance] • [Roadmap][roadmap]
 
 [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="linkedin logo" />][mail-to]
 [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="42" height="30" alt="twitter logo" />][twitter]
@@ -40,9 +40,9 @@ We are proud of what our Open Source work has achieved.
 
 </div>
 
-[ospo-artwork]: https://github.com/kommitters/.github/blob/main/assets/banner.jpg
-[contributions]: https://github.com/kommitters/.github/contributions
-[governance]: https://github.com/kommitters/ospo
+[ospo-artwork]: https://github.com/kommitters/.github/blob/main/assets/banner.jpeg
+[contributions]: https://github.com/kommitters/.github/blob/main/profile/contributions/README.md
+[oss-governance]: https://github.com/kommitters/ospo
 [roadmap]: https://github.com/orgs/kommitters/projects/4
 [kommit.co]: https://kommit.co
 [mail-to]: mailto:oss@kommit.co
