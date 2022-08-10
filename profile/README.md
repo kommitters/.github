@@ -1,6 +1,6 @@
 <div align="center">
 
-![kommitters Open Source][ospo-artwork]
+![kommitters Open Source][ospo-banner]
 
 # Hi there, kommitter 👋
 
@@ -10,10 +10,10 @@ Our training programs rely on building and maintaining Open Source projects; thi
 
 As a tech talent incubator, we realized there are thousands of Latin American women and men full of passion and courage who overcame the restrictions imposed by being born in a challenging part of the world. Our mission is to give them the power and opportunity to build the future, creating better career opportunities.
 
-### **kommitters** is sponsored by [**kommit**][kommit.co]<br> <sub>A tech talent incubator with more than a decade of experience.</sub>
+### **kommitters** is sponsored by [**kommit**][kommit.co]<br> <sub>A Latin American tech talent incubator with more than a decade of experience.</sub>
 <br>
 
-[Contributions][contributions] • [OSS Governance][oss-governance] • [Roadmap][roadmap]
+#### [OSPO][ospo] • [Contributions][contributions] • [Roadmap][roadmap]
 
 [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="linkedin logo" />][mail-to]
 [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="42" height="30" alt="twitter logo" />][twitter]
@@ -40,9 +40,9 @@ We are proud of what our Open Source work has achieved.
 
 </div>
 
-[ospo-artwork]: https://github.com/kommitters/.github/blob/main/assets/banner.jpeg
+[ospo-banner]: https://github.com/kommitters/.github/blob/main/assets/banner.jpeg
 [contributions]: https://github.com/kommitters/.github/blob/main/profile/contributions/README.md
-[oss-governance]: https://github.com/kommitters/ospo
+[ospo]: https://github.com/kommitters/ospo
 [roadmap]: https://github.com/orgs/kommitters/projects/4
 [kommit.co]: https://kommit.co
 [mail-to]: mailto:oss@kommit.co
