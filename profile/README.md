@@ -36,7 +36,7 @@ As a tech talent incubator, we realized there are thousands of Latin American wo
 We are proud of what our Open Source work has achieved.
 
 [**Elixir Stellar SDK**][stellar-sdk]<br/>
-[<img src="https://user-images.githubusercontent.com/1649973/182957620-e9cf03a4-0ffa-45ae-997f-cca8534a3d4a.png" width="200" />][scf-stellar-sdk]
+[<img src="https://github.com/kommitters/.github/blob/main/assets/scf-winner.png" width="200" />][scf-stellar-sdk]
 
 </div>
 
