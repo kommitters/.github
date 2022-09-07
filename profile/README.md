@@ -40,7 +40,7 @@ We are proud of what our Open Source work has achieved.
 
 </div>
 
-[ospo-banner]: https://github.com/kommitters/.github/blob/main/assets/banner.jpeg
+[ospo-banner]: https://i.imgur.com/r31qBpV.jpg
 [contributions]: https://github.com/kommitters/.github/blob/main/profile/contributions/README.md
 [ospo]: https://github.com/kommitters/ospo
 [roadmap]: https://github.com/orgs/kommitters/projects/4
