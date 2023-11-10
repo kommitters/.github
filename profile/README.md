@@ -15,9 +15,8 @@ As a tech talent incubator, we realized there are thousands of Latin American wo
 
 #### [OSPO][ospo] • [Contributions][contributions] • [Roadmap][roadmap]
 
-[<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="linkedin logo" />][mail-to]
+[<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo" />][linkedin]
 [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="42" height="30" alt="twitter logo" />][twitter]
-[<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="42" height="30" alt="devto logo" />][dev-to]<br><br>
 
 ## 👩🏻‍💻 Tech strengths
 
@@ -58,10 +57,9 @@ We are proud of what our Open Source work has achieved.
 [contributions]: https://github.com/kommitters/.github/blob/main/profile/contributions/README.md
 [ospo]: https://github.com/kommitters/ospo
 [roadmap]: https://github.com/orgs/kommitters/projects/4
-[kommit.co]: https://kommit.co
-[mail-to]: mailto:oss@kommit.co
+[kommit.co]: https://kommit.co?utm_source=GitHub
 [twitter]: https://twitter.com/kommitters_oss
-[dev-to]: https://dev.to/kommitters
+[linkedin]: https://www.linkedin.com/company/kommit-co
 
 <!-- Tech strengths -->
 [elixir-badge]: https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white
