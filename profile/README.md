@@ -1,16 +1,37 @@
 <div align="center">
 
-![kommitters Open Source][ospo-banner]
+![kommit-OSPO][ospo-banner]
 
-# Hi there, kommitter 👋
+# Welcome to **kommit-OSPO** repositories 👋
 
-**kommitters** is an **Open Source** community that empowers Latin American developers to work with the high-quality software standards demanded by the top-notch tech market.
+</div>
 
-Our training programs rely on building and maintaining Open Source projects; this is the best way to improve and evaluate our trainees' skills and give back to the community at the same time.
+<div align="left">
 
-As a tech talent incubator, we realized there are thousands of Latin American women and men full of passion and courage who overcame the restrictions imposed by being born in a challenging part of the world. Our mission is to give them the power and opportunity to build the future, creating better career opportunities.
+> *"Any organization in the software engineering business should have an Open-Source Program Office."*
+> \- *Luis Hurtado, Founder @ kommit*
 
-### **kommitters** is sponsored by [**kommit**][kommit.co]<br> <sub>A Latin American tech talent incubator with more than a decade of experience.</sub>
+At **kommit**, we provide top software maintenance services for clients across diverse industries.
+
+### So, why do we run an Open-Source Program Office?
+
+First, **kommit** is more than your regular staffing company. We detect talented engineers in developing economies early in their careers and invest in shaping them into world-class professionals.
+
+Second, by contributing to open-source projects, we bring best practices, quality, and third-party vetting to our engineers.
+
+Third, we believe in giving back to the open-source communities.
+
+### What will you find here?
+
+In the following repositories, you will find our award-winning projects and forks to projects we use to contribute to.
+
+We invite you to explore our projects, build with us, get whatever you need, and let us know what we do better. Let’s start!
+
+</div>
+
+<div align="center">
+
+### **kommit-OSPO** is sponsored by [**kommit**][kommit.co]<br> <sub>A Latin American tech talent incubator with more than a decade of experience.</sub>
 <br>
 
 [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo" />][linkedin]
@@ -53,7 +74,7 @@ We are proud of what our Open Source work has achieved.
 
 [ospo-banner]: https://i.imgur.com/r31qBpV.jpg
 [kommit.co]: https://kommit.co?utm_source=GitHub
-[twitter]: https://twitter.com/kommitters_oss
+[twitter]: https://twitter.com/kommitco
 [linkedin]: https://www.linkedin.com/company/kommit-co
 
 <!-- Tech strengths -->
