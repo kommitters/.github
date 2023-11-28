@@ -8,8 +8,13 @@
 
 <div align="left">
 
-> *"Any organization in the software engineering business should have an Open-Source Program Office."*
-> \- *Luis Hurtado, Founder @ kommit*
+
+> ---
+> <font size="5"> *"Every organization in the software business should have an Open-Source Program Office."* </font>
+>
+> <font size="5"> \- *Luis Hurtado, Founder @ kommit* </font>
+>
+> ---
 
 At **kommit**, we provide top software maintenance services for clients across diverse industries.
 
