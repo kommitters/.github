@@ -8,10 +8,11 @@
 
 <div align="left">
 
+
 > ---
-> *"Every organization in the software engineering business should have an Open-Source Program Office."*
+> <font size="5"> *"Every organization in the software business should have an Open-Source Program Office."* </font>
 >
-> \- *Luis Hurtado, Founder @ kommit*
+> <font size="5"> \- *Luis Hurtado, Founder @ kommit* </font>
 >
 > ---
 
