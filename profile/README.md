@@ -8,8 +8,12 @@
 
 <div align="left">
 
-> *"Any organization in the software engineering business should have an Open-Source Program Office."*
+> ---
+> *"Every organization in the software engineering business should have an Open-Source Program Office."*
+>
 > \- *Luis Hurtado, Founder @ kommit*
+>
+> ---
 
 At **kommit**, we provide top software maintenance services for clients across diverse industries.
 
