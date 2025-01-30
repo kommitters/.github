@@ -16,11 +16,11 @@
 >
 > ---
 
-At **kommit**, we provide top software maintenance services for clients across diverse industries.
+At **kommit**, we provide effective software engineering and AI-powered automation for clients across diverse industries.
 
-### So, why do we run an Open-Source Program Office?
+### So, why do we have an Open-Source Program Office?
 
-First, **kommit** is more than your regular staffing company. We detect talented engineers in developing economies early in their careers and invest in shaping them into world-class professionals.
+First, open source allows us to experiment, iterate, and refine solutions. It allows us to build better software through real-world contributions.
 
 Second, by contributing to open-source projects, we bring best practices, quality, and third-party vetting to our engineers.
 
@@ -28,9 +28,9 @@ Third, we believe in giving back to the open-source communities.
 
 ### What will you find here?
 
-In the following repositories, you will find our award-winning projects and forks to projects we use to contribute to.
+In our repositories, you will find our award-winning projects and forks to projects we contribute to.
 
-We invite you to explore our projects, build with us, get whatever you need, and let us know what we do better. Let’s start!
+We invite you to explore our projects, build with us, and let us know how we can do it better. Let’s get started!
 
 </div>
 
