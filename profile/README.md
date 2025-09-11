@@ -77,7 +77,7 @@ We are proud of what our Open Source work has achieved.
 
 </div>
 
-[ospo-banner]: https://i.imgur.com/r31qBpV.jpg
+[ospo-banner]: https://i.postimg.cc/D02ptV9H/banner.webp
 [kommit.co]: https://kommit.co?utm_source=GitHub
 [twitter]: https://twitter.com/kommitco
 [linkedin]: https://www.linkedin.com/company/kommit-co
